@@ -9,6 +9,12 @@
 		.my_gradient{opacity:1;fill:url(#SVGID_1_);}
 		.my_gradient:hover{opacity:0.8;}
 		.st0{opacity:0.8;fill:url(#SVGID_2_);}
+		body{
+			width: 70%;
+			height:70%;
+			background: #418BFF;
+
+		}
 	</style>
 
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
